@@ -1,0 +1,73 @@
+                             RESUME
+
+Name               :	Abrahim Kaba
+Data of Birth     :	Feb 6, 1990
+National            :	Liberian
+Health               :	Excellence
+Marital Status   :	Single
+Contact #          :	01084032320
+
+Objective
+To become successful in the field of Information Technology especially in the 
+Area of Software Engineering.
+
+Education Background
+ High School Diploma / WAEC Certificate             	May, 2011
+ First Assembly of God high school,
+ Buchanan Street.
+
+
+Diploma in Computer Science
+(Hardware and Software)                			Dec, 2015
+Institution: International Institute of  Computer Studie.
+Liberia.
+
+Course Complted:
+1.computer awarenss
+2.Ms DOS
+3.Basic Electronic Theory
+4.Basic Eletrocnic Prctical
+5.Diasembling and Assembling
+6.Computer SetUp and Installition
+7.Internet Concepts
+8.System Analysic and Design
+9.Bussiness Communication and Methods
+
+Professional Certicate in Full-Stack Engineering                     Dec,2021
+Institution: Wcoding.
+South Korea.
+CourseCompleted:
+1.HTML
+2.CSS
+3.Javascript
+4.React
+
+Technologies:
+*Flex-Box
+*Grid
+*Promise
+*TDD
+*Git/Github
+*React
+*Redux
+*React Jest
+*Node
+*Express.js
+*Postgres
+
+
+Projects:
+1
+
+Job Experience
+Assistance Computer Technician
+(Repair, maintenance and sell Accessories)
+Megatech Computer Shop.
+
+
+Skill
+Artistic Work
+Repair and maintenance of computer
+
+
+
